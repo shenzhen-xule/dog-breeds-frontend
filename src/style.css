@@ -1,0 +1,29 @@
+#selectStyle{
+    width:200px;
+    height: 50px;
+    margin:10px 40px;
+    font-size:20px;
+}
+#selectBox{
+    position: absolute;
+    top: 100px;
+    width: 100%;
+    height: 300px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+#imageStyle{
+    width: 400px;
+    height: 300px;
+    margin:10px 10px;
+}
+#imageBox{
+    position: absolute;
+    top: 200px;
+    width: 100%;
+    height: 300px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
